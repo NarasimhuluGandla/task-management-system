@@ -70,7 +70,7 @@ backend-assignment/
 - Django 5.0+
 - Django REST Framework
 - djangorestframework-simplejwt
-- SQLite (default) / MySQL / PostgreSQL
+- SQLite (default) 
 
 **Frontend:**
 - React.js 18+
