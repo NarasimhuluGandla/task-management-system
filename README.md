@@ -31,9 +31,7 @@ A scalable REST API with authentication, role-based access control, and CRUD ope
 ---
 
 ## 📁 Project Structure
-```
-## 📁 Project Structure
-```
+ ```
 backend-assignment/
 ├── api/                       # Django app (models, views, serializers, urls)
 ├── backend/                   # Django project settings
@@ -61,7 +59,6 @@ backend-assignment/
 ├── README.md                  # Project documentation
 ├── Task_Management_API.postman_collection.json  # API documentation
 └── .gitignore                 # Git ignore rules
-```
 ```
 
 ---
